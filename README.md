@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica+%40+UTEM;Backend+%2B+IA+en+el+flujo+de+trabajo+%F0%9F%A4%96;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Construyendo+OriginsCL+%F0%9F%91%9F;Disponible+para+pr%C3%A1ctica+profesional+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Estudiante+de+Ing.+en+Inform%C3%A1tica;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Construyendo+OriginsCL+%F0%9F%91%9F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -54,14 +54,6 @@ Estudiante de **Ingeniería en Informática** en la **Universidad Tecnológica M
 ### 🌎 Idiomas
 
 Español (nativo) · Inglés (B1) · Portugués (B1)
-
----
-
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=agustin95q&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
